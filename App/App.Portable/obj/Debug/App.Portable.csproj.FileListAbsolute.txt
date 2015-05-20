@@ -1,0 +1,13 @@
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\App.Portable.dll
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\App.Portable.pdb
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\System.Net.Http.dll
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\Newtonsoft.Json.xml
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\System.Net.Http.xml
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\obj\Debug\App.Portable.csprojResolveAssemblyReference.cache
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\obj\Debug\App.Portable.dll
+C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Portable\obj\Debug\App.Portable.pdb

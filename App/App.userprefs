@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="App.iOS\App.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.Android\LicensureActivty.cs">
+    <Files>
+      <File FileName="App.Android\SplashScreen.cs" Line="14" Column="23" />
+      <File FileName="App.Android\SliderPageActivity.cs" Line="62" Column="1" />
+      <File FileName="App.Android\PartsActivity.cs" Line="122" Column="4" />
+      <File FileName="App.iOS\View Controllers\DetailViewController.cs" Line="184" Column="40" />
+      <File FileName="App.iOS\PaymentDelegate.cs" Line="42" Column="82" />
+      <File FileName="App.Android\ToSActivity.cs" Line="32" Column="4" />
+      <File FileName="App.Android\SearchPartFragment.cs" Line="43" Column="79" />
+      <File FileName="App.Android\LicensureActivty.cs" Line="32" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="c:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Android\dialog_list_item.cs" line="48" column="1" />
+      <Breakpoint file="C:\Users\swalk_000\Documents\GitHub\WilliesCycles\App\App.Android\SliderPageActivity.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
